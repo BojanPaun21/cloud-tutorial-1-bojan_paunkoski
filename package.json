@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.88.0"
+  },
+  "name": "cloud-tutorial-1-bojan_paunkoski",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BojanPaun21/cloud-tutorial-1-bojan_paunkoski.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BojanPaun21/cloud-tutorial-1-bojan_paunkoski/issues"
+  },
+  "homepage": "https://github.com/BojanPaun21/cloud-tutorial-1-bojan_paunkoski#readme"
+}
